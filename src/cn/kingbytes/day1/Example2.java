@@ -1,4 +1,4 @@
-package cn.kingbytes;
+package cn.kingbytes.day1;
 
 /**
  * @author Freeman Hu
